@@ -1,0 +1,5 @@
+# Terraform: provider downloads, local state, and saved plans.
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
